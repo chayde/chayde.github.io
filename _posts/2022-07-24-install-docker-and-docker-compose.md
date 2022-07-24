@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Install Docker and Docker compose"
-date: 2022-07-24 09:00:00 -0400
+date: 2022-07-24 09:50:00 -0400
 categories: [homelab]
 tags: [homelab, ubuntu, bash, docker, docker-compose, howto]
 ---

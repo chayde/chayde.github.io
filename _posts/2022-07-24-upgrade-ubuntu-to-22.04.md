@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Upgrade to Ubuntu 22.04"
-date: 2202-07-24 09:00:00 -0400
+date: 2202-07-24 09:40:00 -0400
 categories: [homelab]
 tags: [ubuntu, homelab, bash]
 ---
