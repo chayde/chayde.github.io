@@ -21,7 +21,7 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chayde Homelab Documentation Site                       # the main title
+title: Chayde's Homelab Documentation Site                       # the main title
 
 tagline: A documentation site built for my homelab.   # it will display as the sub-title
 
