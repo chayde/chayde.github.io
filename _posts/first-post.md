@@ -1,5 +1,5 @@
 ---
-title: Hello Homelab
+title: First Post
 date: 2022-07-21 12:00:00 -400
 cagegories: [homelab, documentaion]
 tags: [web,vscode,git,testing]
