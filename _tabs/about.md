@@ -10,6 +10,6 @@ Welcome! My name is Mark Riggs (aka Chayde), I'm a fourty something nerd interes
 
 The site you've found is intended to be a repository for not only documentation I generate for my various homelab projects but any other topics I find interesting enough to write about I intend to capture those here as well. 
 
-[//]: <> The following two lines were a tooltip that used to display prior to adding the above text.
-[//]: <> > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-[//]: <> {: .prompt-tip }
+
+> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+{: .prompt-tip }
