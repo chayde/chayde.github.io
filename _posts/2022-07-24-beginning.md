@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Post
+title: First Post - Templates
 date: 2022-07-21 12:00:00 -400
 cagegories: [homelab,documentaion]
 tags: [web,vscode,git,testing]
@@ -8,7 +8,7 @@ tags: [web,vscode,git,testing]
 
 # Welcome
 
-Hello and welcome to my homelab docs site - this page was created to use as a template of examples for various kinds of markdown and formatting I can use on the site
+Hello and welcome to my homelab docs site - this page was created to use as a template of examples for various kinds of markdown and formatting I can use on the site going forward.
 <br><br><br>
 # H1 - Heading Test
 ## H2 - Heading Test
