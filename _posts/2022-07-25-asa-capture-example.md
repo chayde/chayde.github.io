@@ -6,12 +6,9 @@ categories: [documentation]
 tags: [cisco, network, asa, pcap, capture, homelab]
 ---
 
-# ASA Capture Example
+# ASA Capture Examples
 
+## The following are capture examples
+```bash
 
-
-[![Some Title](https://img.youtube.com/vi/BBBBBBBBBBBB/0.jpg)](https://www.youtube.com/watch?v=BBBBBBBBBBBB "Some Title")
-
-SOME DESCRIPTION
-
-[Watch Video](https://www.youtube.com/watch?v=BBBBBBBBBBBB)
+```
