@@ -8,7 +8,6 @@ tags: [cisco, network, asa, pcap, capture, homelab]
 
 # ASA Capture Examples
 
-<<<<<<< HEAD
 ## Capture Setup: Specify Source AND Destination
 To setup a capture on an ASA I like to create an access-list that defines the traffic I'm interested in first. 
 For the source and destination objects you can specify single hosts or entire subnets. 
@@ -68,9 +67,3 @@ The /pcap at the end will format the file that is downloaded into a pcap format 
  
  ex: https://192.168.20.1/admin/capture/ctx-prod/CAP/pcap
 ```
-=======
-## The following are capture examples
-```bash
-
-```
->>>>>>> 570fe669b19342cebf79f9b2f82c86a3866a844a
