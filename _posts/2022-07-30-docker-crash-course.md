@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Crash Course on Docker, Kubernetes, AWS and Terraform"
-date: 2022-01-01 09:00:00 -0400
+date: 2022-07-30 19:00:00 -0400
 categories: [homelab]
 tags: [homelab, ubuntu, docker, kubernetes, aws, terraform, IaS, infrastructure as code]
 ---
@@ -11,12 +11,8 @@ tags: [homelab, ubuntu, docker, kubernetes, aws, terraform, IaS, infrastructure 
 
 These notes are going to be my refrence to a blog post series a friend of mine sent me for the topic: [Crash Course](https://blog.gruntwork.io/the-docker-kubernetes-terraform-and-aws-crash-course-series-dca343ba1274)
 
-<br>
-
 ## Initial Setup 
 My setup will be using a host I created named docker01.chayde.lab (Ubuntu VM with 32g ram, 100g HDD, and 4 vCPU) for the locally hosted examples. Ubuntu 22.04 has been installed, initial user setup has been performed and both docker and docker-compose have been installed. I followed my previous post for installing [docker and docker-compose](https://docs.chayde.com/posts/install-docker-and-docker-compose/)
-
-<br>
 
 ## Run Your First Docker Container
 To run a container you will use the following command structure:
