@@ -61,6 +61,14 @@ sudo apt update && sudo apt upgrade -y
 ```
 
 # Embedded tips
-This is an example of a tip
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+> This is an example of a Tip.
 {: .prompt-tip }
+
+> This is an example of an Info block.
+{: .prompt-info }
+
+> This is an example of a Warning block.
+{: .prompt-warning }
+
+> This is an example of a Danger block.
+{: .prompt-danger }
