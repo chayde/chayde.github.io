@@ -19,11 +19,11 @@ To run a container you will use the following command structure:
 ```bash
 $ docker run <IMAGE> [COMMAND]
 ```
-The `IMAGE` is the docker image to run and `COMMAND` are optional commands to execute with the image.
+The `IMAGE` is the docker image to run and `COMMAND` are optional commands to execute with the image. For an example of how this works you can run a bash shell in an Ubuntu 20.04 Docker image 
 
-For an example of how this works you can run a bash shell in an Ubuntu 20.04 Docker image 
-#### Note 
+Note 
 > the command below includes the `-it` flag so you get an interactive shell where you can type and run other commands.
+
 ```bash
 $ docker run -it ubuntu:20.04 bash
 Unable to find image 'ubuntu:20.04' locally
@@ -153,7 +153,8 @@ docker update --restart=no the-container-you-want-to-disable-restart
 
 If you are using docker-compose:
 
-> restart no is the default restart policy, and it does not restart a container under any circumstance. When always is specified, the container always restarts. The on-failure policy restarts a container if the exit code indicates an on-failure error.{: .prompt-tip }
+> restart no is the default restart policy, and it does not restart a container under any circumstance. When always is specified, the container always restarts. The on-failure policy restarts a container if the exit code indicates an on-failure error. 
+{: .prompt-tip }
 
 Docker-compose restart policies: 
 ```bash
