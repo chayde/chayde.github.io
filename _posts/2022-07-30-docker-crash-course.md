@@ -107,7 +107,7 @@ Containers are isolated not just their file system but also from a networking pe
 $ docker run -p 5000:5000 training/webapp
  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
 ```
-
+![Web App On Port 5000](/assets/images/2022-07-30-webapp-example.jpg)
 
 # More House Cleaning Commands
 ## TL;DR: How to Stop All Docker Containers
