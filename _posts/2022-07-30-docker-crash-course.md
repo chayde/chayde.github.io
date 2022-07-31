@@ -107,6 +107,44 @@ Once it's running you'll be able to see the the app return results by opening a 
 
 ![Web App On Port 5000](/assets/2022-07-30-webapp-example.jpg)
 
+## Create A Docker Image
+we've used pre-built docker images so far from Docker Hub for `ubuntu:20.04` and `training/webapp` but what about creating your own docker image? For example imagine we had a folder called `web-server` that contained an `index.html` file: 
+```bash
+<html>
+  <body>
+    <h1>Hello World from Custom Docker!</h1>
+  </body>
+</html>
+```
+We could accomplish this by createing something called a `dockerfile` in the `web-server` folder with the following contents. 
+```bash
+FROM python:3
+
+WORKDIR /usr/src/app
+
+COPY index.html .
+
+CMD ["python", "-m", "http.server", "8000"]
+```
+A Dockerfile is a text file that contains a series of commands in capital letters describe to Docker how to build a Docker image. For the dockerfile we defined previously it will do the following:
+
+* FROM: This specifies the base image. The preceding code uses the official python image from Docker Hub, which, as you can probably guess, has Python already installed. One convenient thing about Docker is that you can build on top of officially-maintained images that have the dependencies you need already installed.
+* WORKDIR: This specifies the working directory for any subsequent commands. If the directory doesn’t already exist, Docker will create it.
+* COPY: This copies files from the host OS into the Docker image. The preceding code copies the index.html file into the Docker image
+* CMD: This specifies the default command to execute in the image when someone does docker run (if they don’t override the command). I’m using a Python command from the big list of HTTP server one-liners to fire up a simple web-server that will serve the index.html file on port 8000.
+
+To build a Docker image from your Dockerfile, go into the web-server folder, and run the docker build command:
+```bash
+$ docker build -t example-server .
+```
+Now you can run that image using the `docker run` command we used earlier. Make sure to include the `-p` switch to map port 8000 externally to the internal 8000 port   
+```bash
+$ docker run -p 8000:8000 example-server
+```
+Now if you open a web browser or curl to your `http://host:8000` you'll see our web page returned. Going forward if that was a real application you wanted to deploy you could then use the `docker push` command to push it to a Docker Registry (requires an authorized account).
+
+<br>
+
 # More House Cleaning Commands
 ## TL;DR: How to Stop All Docker Containers
 To stop all Docker containers, simply run the following command in your terminal:
@@ -149,9 +187,7 @@ docker update --restart=no $(docker ps -a -q)
 docker update --restart=no the-container-you-want-to-disable-restart
 ```
 
-### Note
-
-If you are using docker-compose:
+### Note: docker-compose
 
 > restart no is the default restart policy, and it does not restart a container under any circumstance. When always is specified, the container always restarts. The on-failure policy restarts a container if the exit code indicates an on-failure error. 
 {: .prompt-tip }

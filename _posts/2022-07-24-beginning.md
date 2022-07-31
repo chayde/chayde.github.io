@@ -9,14 +9,14 @@ tags: [web,vscode,git,testing]
 # Welcome
 
 Hello and welcome to my homelab docs site - this page was created to use as a template of examples for various kinds of markdown and formatting I can use on the site going forward.
-<br><br><br>
+<br>
 # H1 - Heading Test
 ## H2 - Heading Test
 ### H3 - Heading Test
 #### H4 - Heading Test
 ##### H5 - Heading Test
 
-<br><br><br>
+<br>
 
 ## What is Lorem Ipsum? 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
@@ -33,9 +33,9 @@ It is a long established fact that a reader will be distracted by the readable c
 * four
 
 ### More Lists w. colored text
-1) <span style="color:red">red</span>
-2) <span style="color:blue">blue</span>
-3) <span style="color:green ">green</span>
+1) <span style="color:red">red</span><br>
+2) <span style="color:blue">blue</span><br>
+3) <span style="color:green ">green</span><br>
 
 ## Code bock examples
 ### Javascript code block
