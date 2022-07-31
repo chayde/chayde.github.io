@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "Crash Course on Docker, Kubernetes, AWS and Terraform"
+title: "Crash Course on Docker, Kubernetes, Terraform, and AWS - Part 1: Docker"
 date: 2022-07-30 19:00:00 -0400
 categories: [homelab]
 tags: [homelab, ubuntu, docker, kubernetes, aws, terraform, IaS, infrastructure as code]
 ---
 
-# Notes from Docker, Kubernetes, Terraform, and AWS crash course series. Part 1 - Docker
-
+# Part 1 - Docker
 
 These notes are going to be my refrence to a blog post series a friend of mine sent me for the topic: [Crash Course](https://blog.gruntwork.io/the-docker-kubernetes-terraform-and-aws-crash-course-series-dca343ba1274) As I work through the posts I'll be including relevant commands here for refrence later. 
 
