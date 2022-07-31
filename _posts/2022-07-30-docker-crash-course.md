@@ -9,10 +9,10 @@ tags: [homelab, ubuntu, docker, kubernetes, aws, terraform, IaS, infrastructure 
 # Notes from Docker, Kubernetes, Terraform, and AWS crash course series. Part 1 - Docker
 
 
-These notes are going to be my refrence to a blog post series a friend of mine sent me for the topic: [Crash Course](https://blog.gruntwork.io/the-docker-kubernetes-terraform-and-aws-crash-course-series-dca343ba1274)
+These notes are going to be my refrence to a blog post series a friend of mine sent me for the topic: [Crash Course](https://blog.gruntwork.io/the-docker-kubernetes-terraform-and-aws-crash-course-series-dca343ba1274) As I work through the posts I'll be including relevant commands here for refrence later. 
 
 ## Initial Setup 
-My setup will be using a host I created named docker01.chayde.lab (Ubuntu VM with 32g ram, 100g HDD, and 4 vCPU) for the locally hosted examples. Ubuntu 22.04 has been installed, initial user setup has been performed and both docker and docker-compose have been installed. I followed my previous post for installing [docker and docker-compose](https://docs.chayde.com/posts/install-docker-and-docker-compose/)
+My setup will be using a host I created named docker01.chayde.lab (Ubuntu VM with 32g ram, 100g HDD, and 4 vCPU) for any examples I can run on local instances. Ubuntu 22.04 has been installed, initial user setup has been performed and both docker and docker-compose have been installed. I followed my previous post for installing [docker and docker-compose](https://docs.chayde.com/posts/install-docker-and-docker-compose/) 
 
 ## Run Your First Docker Container
 To run a container you will use the following command structure:
@@ -26,15 +26,9 @@ Note
 
 ```bash
 $ docker run -it ubuntu:20.04 bash
-Unable to find image 'ubuntu:20.04' locally
-20.04: Pulling from library/ubuntu
-d7bfe07ed847: Already exists
-Digest: sha256:fd92c36d3cb9b1d027c4d2a72c6bf0125da82425fc2ca37c414d4f010180dc19
-Status: Downloaded newer image for ubuntu:20.04
-root@e84d633423a6:/#
 ```
 
-You can see that you're now inside a new container. A completely different environment than you were previously.
+You can see that you're now inside a new container. This is a completely different environment than you were previously working from.
 
 ```bash
 root@e84d633423a6:/# cat /etc/os-release
@@ -51,7 +45,7 @@ PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-poli
 VERSION_CODENAME=focal
 UBUNTU_CODENAME=focal
 ```
-Run a `ls -al` and see a list of files in the container you're attached to. Docker images are self contained and will always run the same way for any system they run on. To see an example we'll write some text into a file on this container. 
+Run a `ls -al` and you will see a list of files in the container you're attached to. Docker images are self contained and will always run the same way for any system they run on. To see an example of this we'll write some text into a file on this container. 
 
 Use `CTRL+D` to exit the container. 
 ```bash
