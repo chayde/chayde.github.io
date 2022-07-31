@@ -6,7 +6,7 @@ categories: [homelab]
 tags: [homelab, ubuntu, docker, kubernetes, aws, terraform, IaS, infrastructure as code]
 ---
 
-# Part 1 - Docker
+# Docker
 
 These notes are going to be my refrence to a blog post series a friend of mine sent me for the topic: [Crash Course](https://blog.gruntwork.io/the-docker-kubernetes-terraform-and-aws-crash-course-series-dca343ba1274) As I work through the posts I'll be including relevant commands here for refrence later. 
 
