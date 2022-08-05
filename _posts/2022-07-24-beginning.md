@@ -37,6 +37,13 @@ It is a long established fact that a reader will be distracted by the readable c
 2) <span style="color:blue">blue</span><br>
 3) <span style="color:green ">green</span><br>
 
+## Tables
+
+Column 1 | Column 2 | Column 3
+---|---|---
+Value 1a | Value 2a | Value 3a
+Value 1b | Value 2b | Value 3b
+
 ## Code bock examples
 ### Javascript code block
 ```javascript
