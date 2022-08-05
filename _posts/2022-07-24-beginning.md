@@ -63,7 +63,7 @@ on:
       - LICENSE
 ```
 ### Bash/Terminal/Console code block
-```bash
+```shell
 sudo apt update && sudo apt upgrade -y
 ```
 
