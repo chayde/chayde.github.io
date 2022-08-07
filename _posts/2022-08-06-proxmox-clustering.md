@@ -6,15 +6,13 @@ categories: [homelab]
 tags: [homelab, proxmox, bash]
 ---
 
-# Proxmox Clustering Notes
+# Creating a new Cluster
 
-## Creating a new Cluster
-
-### Create a cluster via the GUI
+## Create a cluster via the GUI
 
 Creating a cluster is fairly straight forward you click on `Datacenter > Cluster > Create Cluster` then give the cluster a unique name, you cannot change this name later without destroying the cluster and starting over. 
 
-### Create a cluster via the CLI
+## Create a cluster via the CLI
 Log into your first Proxmox node via SSH and run: 
 ```shell
 pvecm create <CLUSTERNAME>
@@ -29,27 +27,27 @@ pvecm nodes
 ```
 
 
-## Adding Nodes to an Existing Cluster
+# Adding Nodes to an Existing Cluster
 
 From the [Proxmox Clustering Documentation](https://pve.proxmox.com/pve-docs/chapter-pvecm.html#pvecm_separate_node_without_reinstall): 
 
 > A node that is about to be added to the cluster cannot hold any guests. All existing configuration in /etc/pve is overwritten when joining a cluster, since guest IDs could otherwise conflict. As a workaround, you can create a backup of the guest (vzdump) and restore it under a different ID, after the node has been added to the cluster.
 {: .prompt-info }
 
-### Join a node to the cluster via the GUI
+## Join a node to the cluster via the GUI
 Joining nodes to an existing cluster is almost as straight forward as creating the cluster was. 
 * Log into both the first node in the cluster as well as the node you want to add then navigate to click on `Datacenter > Cluster` 
 * On the first node click on `Join Information` then click `Copy Information`
 * Next from the node you want to add to the cluster click on `Join Cluster` paste the join information you copied from the first node, enter the first node's root password in the password box and click `Join`
 
-### Join a node to the cluster via the CLI
+## Join a node to the cluster via the CLI
 
 Log into the node you want to join to the cluster via SSH and run: 
 ```shell
 pvecm add <IP_FIRST_CLUSTER_NODE>
 ```
 
-## Removing Cluster Configurations
+# Removing Cluster Configurations
 If you have any issues with clustering or just want to completely remove the cluster configs from your nodes you will need to do the following. 
 
 > This is not the recommended method per the official Proxmox documentation however these were the only instructions that worked for me. Running through these steps prevented me from having to reinstall Proxmox on all my nodes. Additionally you need to ensure that all shared resources are cleanly separated or you may run into conflicts later.
