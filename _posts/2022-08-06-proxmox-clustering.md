@@ -98,3 +98,6 @@ rm -rf /etc/pve/nodes/*
 
 > Clustering and configuration sync happen over SSH, the nodes exchange ssh keys stored in the `/etc/pve/priv/authorized_keys` file, you will need to remove these entries as well. 
 {: .prompt-info }
+
+
+[Proxmox Clustering Video](https://www.youtube.com/watch?v=xTpaCAq1ruM)
