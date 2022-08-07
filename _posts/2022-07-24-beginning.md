@@ -60,6 +60,19 @@ on:
 sudo apt update && sudo apt upgrade -y
 ```
 
+# Images and Links 
+
+## Image w. Embedded Link
+
+[![Web App On Port 5000](/assets/2022-07-30-webapp-example.jpg)](https://docs.chayde.com)
+
+SOME DESCRIPTION TEXT BELOW THE IMAGE LINK
+
+## Text link
+This is how to create a text link: [Watch Video](https://www.youtube.com/watch?v=BBBBBBBBBBBB)
+
+
+
 # Embedded tips
 > This is an example of a Tip.
 {: .prompt-tip }
