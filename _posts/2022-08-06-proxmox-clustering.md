@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Proxmox Clustering Notes"
-date: 2022-08-06 20:00:00 -0400
+date: 2022-08-05 20:00:00 -0400
 categories: [homelab]
 tags: [homelab, proxmox, bash]
 ---
