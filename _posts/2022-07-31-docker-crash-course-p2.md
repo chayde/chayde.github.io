@@ -3,7 +3,7 @@ layout: post
 title: "Crash Course on Docker, Kubernetes, Terraform, and AWS - Part 2: Kubernetes"
 date: 2022-07-31 09:00:00 -0400
 categories: [homelab]
-tags: [homelab, ubuntu, docker, kubernetes, aws, terraform, IaS, infrastructure as code]
+tags: [homelab, ubuntu, docker, kubernetes, aws, terraform]
 ---
 
 # Kubernetes
