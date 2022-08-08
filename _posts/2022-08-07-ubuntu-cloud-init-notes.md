@@ -9,7 +9,7 @@ tags: [homelab, ubuntu, bash, cloud init, proxmox]
 # Ubuntu Cloud Cloud Init Teplates
 After following all the steps to setup an Ubuntu Cloud Init template in my proxmox lab using the following: [Perfect Proxmox Template with Cloud Image and Cloud Init](https://www.youtube.com/watch?v=shiIi38cJe4)
 
-I ran into an issue where the cloud init image creates a virtual machien with a really small virtual disk (2.2G) which was too small to make the VMs usable.
+I ran into an issue where the cloud init image creates a virtual machine with a really small virtual disk (2.2G) which was too small to be useful.
 
 According to the official [Proxmox Documentation](https://pve.proxmox.com/wiki/Resize_disks) you could resize your disks while they were either online or offline with the following command from the Proxmox VE node the VM lives on:
 ```shell
@@ -24,7 +24,7 @@ Alternatively you can do this via the GUI by navigating to `VM -> Hardware -> Ha
 
 If you resize the disks before you boot the VM for the first time you dont have any issues. The problem I had was I'd already started a bunch of VMs with the original size, so I went searching online for a way to expand the VMs disks and found several posts about expanding the disks but you need to run several steps. 
 
-I followed the steps above to resize the virtual disks Once the disks were marked "physically" larger you need to make some updates in the OS so it expands the existing partitions. 
+I followed the steps above to resize the virtual disks. Once the disks were "physically" resized you need to make some updates in the OS so it expands the existing partitions. 
 
 To start with I needed to list all the partitions: 
 ```shell
