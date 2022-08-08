@@ -36,6 +36,7 @@ docker -v
 sudo curl -L "https://github.com/docker/compose/releases/download/v2.8.0/docker-compose-linux-x86_64" -o /usr/local/bin/docker-compose
 sudo chmod +x /usr/local/bin/docker-compose
 ```
+
 > NOTE: in the command above v2.8.0 was the latest version at the time of writting. You will need to update that value as new versions are released.
 {: .prompt-info }
 
