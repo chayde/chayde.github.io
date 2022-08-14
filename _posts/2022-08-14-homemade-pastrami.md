@@ -49,6 +49,13 @@ Some Note's I took while watching Brad's video:
 7. Brad recommends a long heated rest for his smoked meats. I did this as well for this cook, over night (approximately 12 hours) in the oven at it's lowest setting (170 degrees fahrenheit for my oven)
 8. Once the cook and rest process were completed I took the brisket and put it in the fridge to cool off completely and firm up before slicing it on my deli slicer. 
 
+| - | - | - |
+|:---:|:---:|:---:|
+![](/assets/08142022/2022-08-14-homemade-pastrami-1.jpg) | ![](/assets/08142022/2022-08-14-homemade-pastrami-2.jpg) | ![](/assets/08142022/2022-08-14-homemade-pastrami-3.jpg) 
+![](/assets/08142022/2022-08-14-homemade-pastrami-4.jpg) | ![](/assets/08142022/2022-08-14-homemade-pastrami-5.jpg) | ![](/assets/08142022/2022-08-14-homemade-pastrami-6.jpg)
+![](/assets/08142022/2022-08-14-homemade-pastrami-7.jpg) | ![](/assets/08142022/2022-08-14-homemade-pastrami-8.jpg) | ![](/assets/08142022/2022-08-14-homemade-pastrami-9.jpg)
+![](/assets/08142022/2022-08-14-homemade-pastrami-10.jpg) | ![](/assets/08142022/2022-08-14-homemade-pastrami-11.jpg) | ![](/assets/08142022/2022-08-14-homemade-pastrami-12.jpg)
+
 <p float="left">
 <img src="/assets/08142022/2022-08-14-homemade-pastrami-1.jpg" width="30%"> <img src="/assets/08142022/2022-08-14-homemade-pastrami-2.jpg" width="30%"> <img src="/assets/08142022/2022-08-14-homemade-pastrami-3.jpg" width="30%">
 <img src="/assets/08142022/2022-08-14-homemade-pastrami-4.jpg" width="30%"> <img src="/assets/08142022/2022-08-14-homemade-pastrami-5.jpg" width="30%"> <img src="/assets/08142022/2022-08-14-homemade-pastrami-6.jpg" width="30%">
