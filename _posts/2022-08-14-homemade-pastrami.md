@@ -56,6 +56,8 @@ Another take away we had was with the rub. The flavor was really nice and in the
 
 All of that aside this was an excellent recipe especially for a novice like myself and the results are really delicious. 
 
+---
+
 | - | - | - |
 |:---:|:---:|:---:|
 ![](/assets/08142022/2022-08-14-homemade-pastrami-1.jpg) | ![](/assets/08142022/2022-08-14-homemade-pastrami-2.jpg) | ![](/assets/08142022/2022-08-14-homemade-pastrami-3.jpg) 
