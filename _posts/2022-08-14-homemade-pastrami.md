@@ -49,6 +49,13 @@ Some Note's I took while watching Brad's video:
 7. Brad recommends a long heated rest for his smoked meats. I did this as well for this cook, over night (approximately 12 hours) in the oven at it's lowest setting (170 degrees fahrenheit for my oven)
 8. Once the cook and rest process were completed I took the brisket and put it in the fridge to cool off completely and firm up before slicing it on my deli slicer. 
 
+## Results
+Honestly I was rather shocked this recipe worked the first time out. The flavor is really good. I chose to brine my brisket for 14 days. When I do this again in the future I think I'll only do it for 5-7 instead. I feel like its a bit too salty for my taste and I'm hoping if I brine it less time it will help with that. 
+
+Another take away we had was with the rub. The flavor was really nice and in the video Brad says you can go heavy and not worry about over doing it. I'd say there is definitely a way to over do it, we went extremely heavy with the rub and while it tastes good I would absolutely prefer a lot less of it on the outside. It also made slicing messy because the bark was just sliding off. 
+
+All of that aside this was an excellent recipe especially for a novice like myself and the results are really delicious. 
+
 | - | - | - |
 |:---:|:---:|:---:|
 ![](/assets/08142022/2022-08-14-homemade-pastrami-1.jpg) | ![](/assets/08142022/2022-08-14-homemade-pastrami-2.jpg) | ![](/assets/08142022/2022-08-14-homemade-pastrami-3.jpg) 
