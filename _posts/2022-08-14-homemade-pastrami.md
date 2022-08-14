@@ -50,11 +50,26 @@ Some Note's I took while watching Brad's video:
 8. Once the cook and rest process were completed I took the brisket and put it in the fridge to cool off completely and firm up before slicing it on my deli slicer. 
 
 
-Pictures | - 
----|---
-![meat brining](/assets/08142022/2022-08-14-homemade-pastrami-1.jpg) | ![rinse](/assets/08142022/2022-08-14-homemade-pastrami-2.jpg) 
-| ![rinse](/assets/08142022/2022-08-14-homemade-pastrami-3.jpg) | ![meat brining](/assets/08142022/2022-08-14-homemade-pastrami-4.jpg) 
-![rinse](/assets/08142022/2022-08-14-homemade-pastrami-5.jpg) | ![rinse](/assets/08142022/2022-08-14-homemade-pastrami-6.jpg)
-![meat brining](/assets/08142022/2022-08-14-homemade-pastrami-7.jpg) | ![rinse](/assets/08142022/2022-08-14-homemade-pastrami-8.jpg) 
-| ![rinse](/assets/08142022/2022-08-14-homemade-pastrami-9.jpg) | ![meat brining](/assets/08142022/2022-08-14-homemade-pastrami-10.jpg) 
-![rinse](/assets/08142022/2022-08-14-homemade-pastrami-11.jpg) | ![rinse](/assets/08142022/2022-08-14-homemade-pastrami-12.jpg)
+<p float="left">
+  <img src="/assets/08142022/2022-08-14-homemade-pastrami-1.jpg" width="32%" />
+  <img src="/assets/08142022/2022-08-14-homemade-pastrami-2.jpg" width="32%" />
+  <img src="/assets/08142022/2022-08-14-homemade-pastrami-3.jpg" width="32%" />
+</p>
+
+<p float="left">
+  <img src="/assets/08142022/2022-08-14-homemade-pastrami-4.jpg" width="32%" />
+  <img src="/assets/08142022/2022-08-14-homemade-pastrami-5.jpg" width="32%" />
+  <img src="/assets/08142022/2022-08-14-homemade-pastrami-6.jpg" width="32%" />
+</p>
+
+<p float="left">
+  <img src="/assets/08142022/2022-08-14-homemade-pastrami-7.jpg" width="32%" />
+  <img src="/assets/08142022/2022-08-14-homemade-pastrami-8.jpg" width="32%" />
+  <img src="/assets/08142022/2022-08-14-homemade-pastrami-9.jpg" width="32%" />
+</p>
+
+<p float="left">
+  <img src="/assets/08142022/2022-08-14-homemade-pastrami-10.jpg" width="32%" />
+  <img src="/assets/08142022/2022-08-14-homemade-pastrami-11.jpg" width="32%" />
+  <img src="/assets/08142022/2022-08-14-homemade-pastrami-12.jpg" width="32%" />
+</p>
