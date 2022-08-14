@@ -13,20 +13,30 @@ Pastrami is one of my favorite things to eat on a sandwich when done right. Ever
 ## The Brine 
 For the brine he gave the following mix in his video: 
 
-    1 gal Water
-    350g Kosher Salt
-    350 Brown Sugar
-    42g Pink Salt
-    10g Coriander
-    15g Mustard Seed
-    15g Black Peppercorn
-    3 Bay Leaves
-    3 Cinnamon Sticks
-    5g Red Pepper Flakes
-    4g Juniper Berries
-    4g Allspice
-    2g Cloves
-    60g Crushed Garlic
+```
+1 gal Water
+350g Kosher Salt
+350 Brown Sugar
+42g Pink Salt
+10g Coriander
+15g Mustard Seed
+15g Black Peppercorn
+3 Bay Leaves
+3 Cinnamon Sticks
+5g Red Pepper Flakes
+4g Juniper Berries
+4g Allspice
+2g Cloves
+60g Crushed Garlic
+```
+
+## The Rub
+```
+* 2 parts pepper. 
+* 2 parts ground coriander.
+* 1/2 part mustard powder
+* 1/2 part garlic powder
+```
 
 ## The Process
 Some Note's I took while watching Brad's video:
@@ -34,19 +44,16 @@ Some Note's I took while watching Brad's video:
 2. When you're ready to cook, rinse the meat off in the sink. You want to make sure all the salt, brine, spices, berries, etc are removed from the outside meat.
 3. Pat the meat dry. It doesn't have to be bone dry but definitely use some paper towels and remove the exess moisture from the brine and rinsing process. This is also a good opportunity to do any last minute trimming before the rub. On my particular cut there were some bits of fat that had plumped up that I trimmed away so as not to have them burn off on the pit. 
 4. The Rub! You can go a bit heavy on the rub if you want because there's no salt in the rub. All the salt comes from the brining process itself.
-    ### Rub:
-        * 2 parts pepper. 
-        * 2 parts ground coriander.
-        * 1/2 part mustard powder
-        * 1/2 part garlic powder
 5. To cook I put this on the pit at 225 degrees fahrenheit, fat side up. I was using oak pellets in the smoker and Iw let it cook at that temperature until the internal temp on the flat read 170 on my probe. 
 6. Once it reached 170 degrees internal I used a Foil boat (still fat side up) and I also turned the heat up to 300 degrees  until it reachde an internal termperature of 200 degrees. 
 7. Brad recommends a long heated rest for his smoked meats. I did this as well for this cook, over night (approximately 12 hours) in the oven at it's lowest setting (170 degrees fahrenheit for my oven)
 8. Once the cook and rest process were completed I took the brisket and put it in the fridge to cool off completely and firm up before slicing it on my deli slicer. 
 
-![](/assets/08142022/2022-08-14-homemade-pastrami-1.jpg) ![](/assets/08142022/2022-08-14-homemade-pastrami-2.jpg) 
-![](/assets/08142022/2022-08-14-homemade-pastrami-3.jpg) ![](/assets/08142022/2022-08-14-homemade-pastrami-4.jpg) 
-![](/assets/08142022/2022-08-14-homemade-pastrami-5.jpg) ![](/assets/08142022/2022-08-14-homemade-pastrami-6.jpg)
-![](/assets/08142022/2022-08-14-homemade-pastrami-7.jpg) ![](/assets/08142022/2022-08-14-homemade-pastrami-8.jpg) 
-![](/assets/08142022/2022-08-14-homemade-pastrami-9.jpg) ![](/assets/08142022/2022-08-14-homemade-pastrami-10.jpg) 
-![](/assets/08142022/2022-08-14-homemade-pastrami-11.jpg) ![](/assets/08142022/2022-08-14-homemade-pastrami-12.jpg)
+- | - 
+---|---
+![meat brining](/assets/08142022/2022-08-14-homemade-pastrami-1.jpg) | ![rinse](/assets/08142022/2022-08-14-homemade-pastrami-2.jpg) 
+| ![rinse](/assets/08142022/2022-08-14-homemade-pastrami-3.jpg) | ![meat brining](/assets/08142022/2022-08-14-homemade-pastrami-4.jpg) 
+![rinse](/assets/08142022/2022-08-14-homemade-pastrami-5.jpg) | ![rinse](/assets/08142022/2022-08-14-homemade-pastrami-6.jpg)
+![meat brining](/assets/08142022/2022-08-14-homemade-pastrami-7.jpg) | ![rinse](/assets/08142022/2022-08-14-homemade-pastrami-8.jpg) 
+| ![rinse](/assets/08142022/2022-08-14-homemade-pastrami-9.jpg) | ![meat brining](/assets/08142022/2022-08-14-homemade-pastrami-10.jpg) 
+![rinse](/assets/08142022/2022-08-14-homemade-pastrami-11.jpg) | ![rinse](/assets/08142022/2022-08-14-homemade-pastrami-12.jpg)
