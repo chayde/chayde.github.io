@@ -49,7 +49,8 @@ Some Note's I took while watching Brad's video:
 7. Brad recommends a long heated rest for his smoked meats. I did this as well for this cook, over night (approximately 12 hours) in the oven at it's lowest setting (170 degrees fahrenheit for my oven)
 8. Once the cook and rest process were completed I took the brisket and put it in the fridge to cool off completely and firm up before slicing it on my deli slicer. 
 
-- | - 
+
+Pictures | - 
 ---|---
 ![meat brining](/assets/08142022/2022-08-14-homemade-pastrami-1.jpg) | ![rinse](/assets/08142022/2022-08-14-homemade-pastrami-2.jpg) 
 | ![rinse](/assets/08142022/2022-08-14-homemade-pastrami-3.jpg) | ![meat brining](/assets/08142022/2022-08-14-homemade-pastrami-4.jpg) 
