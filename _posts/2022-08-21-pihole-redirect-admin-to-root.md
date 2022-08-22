@@ -16,3 +16,5 @@ url.redirect = ("^/$" => "/admin" )
 ```
 
 This line should allow you to visit the site directly `http://<IP/HOSTNAME>` with no `/admin` on the URL and the admin page should load.
+
+Now you just need to either reboot the host or restart the lighttpd service using: `systemctl restart lighttpd.service`
