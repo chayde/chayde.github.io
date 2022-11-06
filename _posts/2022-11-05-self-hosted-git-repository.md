@@ -6,7 +6,7 @@ categories: [homelab]
 tags: [homelab, ubuntu, bash, NetDevOps]
 ---
 
- # Self Hosted Git Repositories
+## Intro
 I have been dipping my toe into trying to learn DevOps/NetDevOps concepts in the last few months. One of the things I've been curious about was learning a bit more about git and how it works, I wanted to be able to host an internal set of repositories for any projects I work on while I learn about these things. Github as a free service is great if you are ok with all of your respositories being public, while I'm learning I would greatly prefer a private respository which I'd have to pay for on Github. It's not a huge cost but I'm trying to learn here and figuring out how to do it myself is the reason I'm working on this stuff in the first place. 
 
 After a bit of research I find that it is indeed possible to internally host your own repositories and its actually faily simple to setup. I found a great write up on the [Linux Foundation](https://www.linuxfoundation.org/blog/blog/classic-sysadmin-how-to-run-your-own-git-server) website that goes through the details. For this example I'm going with the bare bones Git on my own server. They have another option for installing and configuring Gitlab that offers a web based GUI similar to Github which I may try later on.
