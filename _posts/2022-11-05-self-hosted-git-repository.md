@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Self-Hosted Git Repositories"
-date: 2022-11-06 09:52:00 -0400
+date: 2022-11-05 09:52:00 -0400
 categories: [homelab]
 tags: [homelab, ubuntu, bash, NetDevOps]
 ---
