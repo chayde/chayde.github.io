@@ -87,7 +87,8 @@ img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
 # avatar: https://pbs.twimg.com/profile_images/1290612335/AIbEiAIAAABDCIaUltLltJCoJSILdmNhcmRfcGhvdG8qKDM5MTM1NThhZDNmNWJlNjA1NGM2MWQzMGY0ZjNjNDM0MjM2NzNhMmUwAW6eJx9CFVHn1qSh8ZOIHBvOlRga_400x400.jpg
-avatar: https://media-exp1.licdn.com/dms/image/C4D03AQFNZwqNVGmraQ/profile-displayphoto-shrink_800_800/0/1614221351043?e=1664409600&v=beta&t=ObwbMtjTDjXFqEcjeID1X-Ml97ZKND6i7skjCZO_aro
+#avatar: https://media-exp1.licdn.com/dms/image/C4D03AQFNZwqNVGmraQ/profile-displayphoto-shrink_800_800/0/1614221351043?e=1664409600&v=beta&t=ObwbMtjTDjXFqEcjeID1X-Ml97ZKND6i7skjCZO_aro
+avatar: /assets/corner.jpeg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
