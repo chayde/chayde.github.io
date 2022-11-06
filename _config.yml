@@ -23,10 +23,10 @@ timezone: America/New_York
 
 title: Mark's Documentation Site                       # the main title
 
-tagline: A documentation site built for my homelab.   # it will display as the sub-title
+tagline: A documentation site built for my homelab... and some other stuff.    # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  This is a site I've created to help document various projects like my homelab as well as other projects or interests I may want to write about. These could range from homelabbing and self hosting various services, recipes I'm interested in cooking / backyard bbq and possibly even a bit of amateur blacksmithing.
+  This is a site I've created to help document various projects like my homelab as well as some other hobbies and interests I may want to write about. Topics could range from homelabbing and self hosting various services, recipes I'm interested in cooking / backyard bbq and possibly even a bit of amateur blacksmithing.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://docs.chayde.com'
