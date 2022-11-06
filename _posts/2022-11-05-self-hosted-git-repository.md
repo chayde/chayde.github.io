@@ -35,7 +35,7 @@ git init --bare
 Now we need to setup git on our local host, I'm using a Windows 11 workstation for this but the instructions should work the same for other operating systems. 
 
 First we need to create a directory to work from then change into that directory. For my exmaple, I'm putting that on my E: drive under the repositories folder. 
-``` cmd
+``` bash
 C:\Users\User> E:
 E:\> cd repositories
 E:\repositories\> mkdir gittest
@@ -43,16 +43,16 @@ E:\repositories\> cd gittest
 E:\repositories\gittest\> 
 ```
 Next we need to create some files for this project. I created a really basic `README.md` file and saved it in the directory. Then we need to initialize git
-```
+``` bash
 E:\repositories\gittest\> git init 
 Initialized empty Git repository in E:/repositories/gittest/.git/
 ```
 Now we add the files from the folder into the repo
-```
+``` bash
 E:\repositories\gittest\> git add .
 ```
 Any time you want make changes to the repo by adding/removing/modifying you will need to include a commit message describing what changed. The  `-a` switch in the command below will apply that message to all files added with the "`git add .`" command above.
-```
+``` bash
 E:\repositories\gittest\> git commit -m "initial commit" -a
 [master 373b548] initial commit
  1 file changed, 1 insertion(+), 1 deletion(-)
@@ -60,17 +60,17 @@ E:\repositories\gittest\> git commit -m "initial commit" -a
  E:\repositories\gittest\> 
 ```
 You can add a message to individual files if you specify the file name instead of using `-a` like this: 
-```
+``` bash
 E:\repositories\gittest\> git commit -m "message" README.md
 [master e517b10] message
  1 file changed, 1 insertion(+)
 ```
 Finally we need to push these changes to the remote-server. Up to this point we have only been working on our local instance of the repository. This step will sync these changes with the remote server so you can access them from other locations. If this repository is hosted on an internet accessible server you can even collaborate with others by supplying them with the server and path information for your repository. 
-```
+``` bash
 E:\repositories\gittest\> git remote add origin ssh://user@remote-server/home/user/gittest.git/
 ```
 Now you can push or pull changes between the remote-server and the localhost using the push or pull option in git
-```
+``` bash
 E:\repositories\gittest\> git push origin master
 Enumerating objects: 5, done.
 Counting objects: 100% (5/5), done.
@@ -82,7 +82,7 @@ To ssh://remote-server/home/user/gittest.git/
    2d1bd8a..373b548  master -> master
 ```
 If you are collaborating with others or need to work on the project from another host you can clone that repo from the server with the following: 
-```
+``` bash
 git clone user@remote-server:/home/user/gittest.git
 ```
 
